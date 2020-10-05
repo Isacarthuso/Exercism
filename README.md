@@ -3,5 +3,8 @@
 
 **Click on the picture to see the solution.**
 
-| [![Test Image 2](https://github.com/Isacarthuso/Exercism-C-track/blob/master/readmeimg/ArmstrongNumbers.PNG)](https://github.com/Isacarthuso/Exercism-C-track/tree/master/armstrong-numbers) | Resource: Memory allocation, Struct, Recursive function |
+| [![Test Image 2](https://github.com/Isacarthuso/Exercism-C-track/blob/master/readmeimg/ArmstrongNumbers.PNG)](https://github.com/Isacarthuso/Exercism-C-track/tree/master/armstrong-numbers) | Resource: Memory allocation, Struct, Recursive function, Macros|
+| :---:         |     :---:      |
+
+| [![Test Image 3](https://github.com/Isacarthuso/Exercism-C-track/blob/master/readmeimg/Grains.PNG)](https://github.com/Isacarthuso/Exercism-C-track/tree/master/grains/src) | Resource: |
 | :---:         |     :---:      |
